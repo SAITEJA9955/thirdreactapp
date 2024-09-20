@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.heading1{
+  background-color: orange;
+}
+#root{
+  background-color: aqua;
+}
+p{
+  color: darkblue;
+}
